@@ -1,0 +1,43 @@
+/*!
+ * Avocado Panel Theme
+ *
+ * Theme: Azalea
+ *
+ * Copyright 2013 Lychee Designs
+ * 
+ *
+ */
+
+#nav .nav > li > a,
+.navbar-fixed-top .badge-inverse,
+#jPanelMenu-menu .nav > li a {
+	color:#F6A1D8;
+}
+
+.dropdown-menu.widget li a.note p b, a, 
+.navbar-fixed-top .navbar-inner + .breadcrumb ul li a:hover {
+	color:#C77ACA;
+}
+
+a:hover, a:focus,
+.dropdown-menu.widget li a.note:hover p b {
+	color:#984CB1;
+}
+
+.btn-primary, .btn-primary:hover {
+	background:#DDA6C8;
+}
+
+.dropdown-menu > .active > a, 
+.dropdown-menu > .active > a:hover, 
+.dropdown-menu > .active > a:focus,
+.navbar-inverse .nav .dropdown-menu .active > a,
+.navbar-inverse .nav .dropdown-menu .active > a:hover, 
+.navbar-inverse .nav .dropdown-menu .active > a:focus {
+	background-color:#CA7BAB;
+}
+
+#jPanelMenu-menu .nav > li a:hover,
+#nav .nav > li > a:hover {
+	color:white;
+}

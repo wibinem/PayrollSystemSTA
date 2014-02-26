@@ -1,0 +1,43 @@
+/*!
+ * Avocado Panel Theme
+ *
+ * Theme: Strawberry
+ *
+ * Copyright 2013 Lychee Designs
+ * 
+ *
+ */
+
+#nav .nav > li > a,
+.navbar-fixed-top .badge-inverse,
+#jPanelMenu-menu .nav > li a {
+	color:#FFADAD;
+}
+
+.dropdown-menu.widget li a.note p b, a, 
+.navbar-fixed-top .navbar-inner + .breadcrumb ul li a:hover {
+	color:#B35F5F;
+}
+
+a:hover, a:focus,
+.dropdown-menu.widget li a.note:hover p b {
+	color:#E97F7F;
+}
+
+.btn-primary, .btn-primary:hover {
+	background:#F38C8C;
+}
+
+.dropdown-menu > .active > a, 
+.dropdown-menu > .active > a:hover, 
+.dropdown-menu > .active > a:focus,
+.navbar-inverse .nav .dropdown-menu .active > a,
+.navbar-inverse .nav .dropdown-menu .active > a:hover, 
+.navbar-inverse .nav .dropdown-menu .active > a:focus {
+	background-color:#E97F7F;
+}
+
+#jPanelMenu-menu .nav > li a:hover,
+#nav .nav > li > a:hover {
+	color:white;
+}
