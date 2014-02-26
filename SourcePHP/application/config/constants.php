@@ -38,9 +38,11 @@ define('FOPEN_READ_WRITE_CREATE_STRICT',		'x+b');
 
 
 define('URL','http://localhost/gaji/');
-define('IMG',URL.'assets/images/');
+define('IMG',URL.'assets/img/');
 define('CSS',URL.'assets/css/');
 define('JS',URL.'assets/js/');
+define('FONT',URL.'assets/font/');
+define('LESS',URL.'assets/less/');
 
 /* End of file constants.php */
 /* Location: ./application/config/constants.php */
